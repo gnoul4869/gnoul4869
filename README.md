@@ -6,10 +6,10 @@
 
 - Skills:
 ```
-Languagues: JavaScript ES6 / HTM L 5 / CSS
+Languagues: JavaScript ES6 / HTML5 / CSS
 Frameworks: React / Express.js (Node.js) / Bootstrap 5
 Databases: MongoDB / MySQL / PostgreSQL / OracleSQL
-Version control softwares: Git / Git Hub
+Version control softwares: Git / GitHub
 Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 ```
 
