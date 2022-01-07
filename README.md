@@ -26,7 +26,6 @@ Libraries: Redux, Mongoose, TensorFlow
 Host: Netlify (Frontend), Heroku (Main Backend), Replit (Vagabot)
 
 -> <a href="https://vagabond-shop.cf/" target="_blank">Vagabond</a>
-
 </pre>
 <pre>
 VNPT-Review (07/2021):
