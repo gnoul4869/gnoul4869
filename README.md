@@ -21,7 +21,8 @@ Vagabond E-Commerce (10/2021):
 It is built using MERN Stack with many essential features such as Recommendation-System and AI chatbot..."
 
 Languages: JavaScript, HTML, CSS, Python
-Frameworks: React, Express. js ( Node. js), Flask, Bootstrap 5 Database: MongoDB
+Frameworks: React, Express.js (Node.js), Flask, Bootstrap 5
+Database: MongoDB
 Libraries: Redux, Mongoose, TensorFlow
 Host: Netlify (Frontend), Heroku (Main Backend), Replit (Vagabot)
 
@@ -33,9 +34,9 @@ VNPT-Review (07/2021):
 "VNPT Review is a web application that allows  VNPT staffs to review their offices in order to improve the 
 overall working experiences in VNPT..."
 
-Languages: C#, JavaScript, HTML, CSS, PL/SQL 
+Languages: C#, JavaScript, HTML, CSS, PL/SQL
 Frameworks: ASP.NET Core MVC, jQuery, Bootstrap 5
-Database: PostgreSQL / OracleSQL 
+Database: PostgreSQL / OracleSQL
 Host: Heroku
 
 -> <a href="https://www.vnpt-review.cf/" target="_blank">VNPT-Review</a>
@@ -47,10 +48,10 @@ HiGamer (05/2021):
 "HiGamer is a website that provides digital games for gaming fans all around Vietnam. By doing so, HiGamer
 helps build a healthy community that says no to video game piracy..."
 
-Languages: PHP, JavaScript,  HTML, CSS 
-Frameworks: j Query
-Database: MySQL 
-Host: 123 host.vn
+Languages: PHP, JavaScript, HTML, CSS 
+Frameworks: jQuery
+Database: MySQL
+Host: 123host.vn
 
 -> <a href="https://www.higamer.cf/" target="_blank">HiGamer</a>
 </pre>
