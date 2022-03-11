@@ -15,6 +15,17 @@ Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 
 - Pet Projects:
 <pre>
+Reaction Timer (03/2022):
+
+"Reaction Timer web application to test your reaction time"
+
+Languages: JavaScript, HTML, CSS
+Framework: Vue.js
+Host: Netlify
+
+-> <a href="https://reaction-timer-v1.netlify.app/" target="_blank">Vagabond</a>
+</pre>
+<pre>
 Vagabond E-Commerce (10/2021):
 
 "Vagabond is an E-Commerce platform that focuses on giving customers the best experience when shopping online. 
