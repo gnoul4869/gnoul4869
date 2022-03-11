@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gnoul4869
 - 👀 I’m interested in reading manga
-- 🌱 I’m currently learning guitar
+- 🎸 I’m currently learning guitar
 - 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me: https://discord.gg/PeS7fRYfde
+- 🤙 How to reach me: https://discord.gg/PeS7fRYfde
 
 - Skills:
 ```
