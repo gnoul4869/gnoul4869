@@ -23,7 +23,7 @@ Languages: JavaScript, HTML, CSS
 Framework: Vue.js
 Host: Netlify
 
--> <a href="https://reaction-timer-v1.netlify.app/" target="_blank">Vagabond</a>
+-> <a href="https://reaction-timer-v1.netlify.app/" target="_blank">Reaction Timer</a>
 </pre>
 <pre>
 Vagabond E-Commerce (10/2021):
