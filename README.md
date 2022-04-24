@@ -27,7 +27,6 @@ Host: Firebase
 -> <a href="https://live-chat-room-v2.web.app//" target="_blank">Live Chatroom</a>
 </pre>
 <pre>
-<pre>
 Reaction Timer (03/2022):
 
 "Reaction Timer web application to test your reaction time"
