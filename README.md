@@ -8,7 +8,7 @@
 ```
 Languagues: JavaScript ES6 / HTML5 / CSS
 Frameworks: Vue.js / React / Express.js (Node.js) / Bootstrap 5
-Databases: MongoDB / MySQL / PostgreSQL / OracleSQL
+Databases: Firestore / MongoDB / MySQL / PostgreSQL / OracleSQL
 Version control softwares: Git / GitHub
 Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 ```
