@@ -19,7 +19,7 @@ Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 <pre>
 Map Loggers (07/2022):
 
-"An application to create location logs on the world map. You choose the places, and you write the story"
+"An application to create location logs on the world map. You choose the places, and you write the stories"
 
 Languages: TypeScript, HTML, SCSS
 Framework: Vue.js 3
