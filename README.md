@@ -7,7 +7,7 @@
 - Skills:
 ```
 Languagues: JavaScript / TypeScript / HTML / CSS / SCSS
-Fronntend Frameworks: Vue.js / Nuxt.js / React
+Frontend Frameworks: Vue.js / Nuxt.js / React
 Backend Frameworks: Express.js (Node.js)
 CSS Frameworks: Tailwind CSS / Bootstrap
 Databases: Firestore (Firebase) / MongoDB / MySQL / PostgreSQL / SQL Server / OracleSQL
