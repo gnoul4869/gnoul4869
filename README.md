@@ -89,7 +89,7 @@ HiGamer (05/2021):
 helps build a healthy community that says no to video game piracy..."
 
 Languages: PHP, JavaScript, HTML, CSS 
-Frameworks: jQuery
+Library: jQuery
 Database: MySQL
 Host: 123host.vn
 
