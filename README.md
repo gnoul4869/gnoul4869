@@ -6,37 +6,53 @@
 
 - Skills:
 ```
-Languagues: JavaScript ES6 / HTML5 / CSS
-Frameworks: Vue.js / React / Express.js (Node.js) / Bootstrap 5
-Databases: Firestore / MongoDB / MySQL / PostgreSQL / OracleSQL
+Languagues: JavaScript / TypeScript / HTML / CSS / SCSS
+Fronntend Frameworks: Vue.js / Nuxt.js / React
+Backend Frameworks: Express.js (Node.js)
+CSS Frameworks: Tailwind CSS / Bootstrap
+Databases: Firestore (Firebase) / MongoDB / MySQL / PostgreSQL / SQL Server / OracleSQL
 Version control softwares: Git / GitHub
 Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 ```
 
 - Pet Projects:
 <pre>
+Map Loggers (07/2022):
+
+"An application to create location logs on the world map. You choose the places, and you write the story"
+
+Languages: TypeScript, HTML, SCSS
+Framework: Vue.js 3
+Host: Netlify
+
+-> <a href="https://map-logger-v1.netlify.app/" target="_blank">Live Chatroom</a>
+</pre>
+
+<pre>
 Live Chatroom (04/2022):
 
 "Live chatroom web application to chat with other people around the world"
 
 Languages: JavaScript, HTML, CSS
-Framework: Vue.js
+Framework: Vue.js 3
 Database: Firestore
 Host: Firebase
 
--> <a href="https://live-chat-room-v2.web.app//" target="_blank">Live Chatroom</a>
+-> <a href="https://live-chat-room-v2.web.app/" target="_blank">Live Chatroom</a>
 </pre>
+
 <pre>
 Reaction Timer (03/2022):
 
 "Reaction Timer web application to test your reaction time"
 
 Languages: JavaScript, HTML, CSS
-Framework: Vue.js
+Framework: Vue.js 3
 Host: Netlify
 
 -> <a href="https://reaction-timer-v1.netlify.app/" target="_blank">Reaction Timer</a>
 </pre>
+
 <pre>
 Vagabond E-Commerce (10/2021):
 
@@ -51,6 +67,7 @@ Host: Netlify (Frontend), Heroku (Main Backend), Replit (Vagabot)
 
 -> <a href="https://vagabond-shop.cf/" target="_blank">Vagabond</a>
 </pre>
+
 <pre>
 VNPT-Review (07/2021):
 
