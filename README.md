@@ -7,10 +7,11 @@
 - Skills:
 ```
 Languagues: JavaScript / TypeScript / HTML / CSS / SCSS
-Frontend Frameworks: Vue.js / Nuxt.js / React
-Backend Frameworks: Express.js (Node.js)
-CSS Frameworks: Tailwind CSS / Bootstrap
+Frontend frameworks: Vue.js / Nuxt.js / React
+Backend frameworks: Express.js (Node.js)
+CSS frameworks: Tailwind CSS / Bootstrap
 Databases: Firestore (Firebase) / MongoDB / MySQL / PostgreSQL / SQL Server / OracleSQL
+Linters: ESLint, Stylelint
 Version control softwares: Git / GitHub
 Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 ```
