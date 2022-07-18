@@ -25,7 +25,7 @@ Languages: TypeScript, HTML, SCSS
 Framework: Vue.js 3
 Host: Netlify
 
--> <a href="https://map-logger-v1.netlify.app/" target="_blank">Live Chatroom</a>
+-> <a href="https://map-logger-v1.netlify.app/" target="_blank">Map Logger</a>
 </pre>
 
 <pre>
