@@ -76,7 +76,8 @@ VNPT-Review (07/2021):
 overall working experiences in VNPT..."
 
 Languages: C#, JavaScript, HTML, CSS, PL/SQL
-Frameworks: ASP.NET Core MVC, jQuery, Bootstrap 5
+Frameworks: ASP.NET Core MVC, Bootstrap 5
+Library: jQuery
 Database: PostgreSQL / OracleSQL
 Host: Heroku
 
