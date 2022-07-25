@@ -6,7 +6,7 @@
 
 - Skills:
 ```
-Languagues: JavaScript / TypeScript / HTML / CSS / SCSS
+Languagues: JavaScript / TypeScript / HTML / CSS / SCSS / Python
 Frontend frameworks: Vue.js / Nuxt.js / React
 Backend frameworks: Express.js (Node.js)
 CSS frameworks: Tailwind CSS / Bootstrap
