@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Discord
 - 🤙 How to reach me: https://discord.gg/PeS7fRYfde
 
+<a href="https://app.daily.dev/gnoul_"><img src="https://api.daily.dev/devcards/7025b08682c64de8bd2f6e32d8f327a5.png?r=hzq" width="400" alt="gnoul_'s Dev Card"/></a>
+
 - Skills:
 ```
 Languagues: JavaScript / TypeScript / HTML / CSS / SCSS / Python
