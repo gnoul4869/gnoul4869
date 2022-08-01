@@ -28,7 +28,7 @@
   &nbsp;
   <p>
      <a href="https://github.com/gnoul4869">
-       <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=10&theme=onedark&no-frame=true" />
+       <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=-1&theme=onedark&no-frame=true" />
      </a>
   </p>
 </details>
