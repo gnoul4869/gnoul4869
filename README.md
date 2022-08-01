@@ -5,6 +5,18 @@
 - 💞️ I’m looking to collaborate on Discord
 - 🤙 How to reach me: https://discord.gg/PeS7fRYfde
 
+<details>
+  <summary>
+    <strong>Dev Card 🌟</strong>
+  </summary>
+  &nbsp;
+  <p>
+     <a href="https://app.daily.dev/gnoul_">
+       <img src="https://api.daily.dev/devcards/7025b08682c64de8bd2f6e32d8f327a5.png?r=xxg" width="400" alt="gnoul_'s Dev Card"/>
+     </a>
+  </p>
+</details>
+
 ## GitHub Stats
 
 | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gnoul4869&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" alt="gnoul_'s Github Stats" /></a> | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoul4869&langs_count=8&theme=synthwave&layout=compact&hide_border=true" alt="gnoul_'s Most Used Languages" /></a> | 
