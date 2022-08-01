@@ -4,7 +4,6 @@
 - 🎸 I’m currently learning guitar
 - 💞️ I’m looking to collaborate on Discord
 - 🤙 How to reach me: https://discord.gg/PeS7fRYfde
-
 <details>
   <summary>
     <strong>Dev Card 🌟</strong>
@@ -21,6 +20,18 @@
 
 | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gnoul4869&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" alt="gnoul_'s Github Stats" /></a> | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoul4869&langs_count=8&theme=synthwave&layout=compact&hide_border=true" alt="gnoul_'s Most Used Languages" /></a> | 
 | ------------- | ------------- |
+
+<details>
+  <summary>
+    <strong>GitHub Trophies 🏆</strong>
+  </summary>
+  &nbsp;
+  <p>
+     <a href="https://github.com/gnoul4869">
+       <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=10&margin-w=5&margin-h=5&theme=onedark&no-frame=true" />
+     </a>
+  </p>
+</details>
 
 ## Skills:
 ```
@@ -115,15 +126,3 @@ Host: 123host.vn
 
 -> <a href="https://www.higamer.cf/" target="_blank">HiGamer</a>
 </pre>
-
-<details align="center">
-  <summary>
-    <strong>GitHub Trophies 🏆</strong>
-  </summary>
-  &nbsp;
-  <p align="center">
-     <a href="https://github.com/gnoul4869">
-       <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=4&margin-w=5&margin-h=5&theme=onedark&no-frame=true" />
-     </a>
-  </p>
-</details>
