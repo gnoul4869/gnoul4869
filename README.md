@@ -21,17 +21,11 @@
 | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gnoul4869&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" alt="gnoul_'s Github Stats" /></a> | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoul4869&langs_count=8&theme=synthwave&layout=compact&hide_border=true" alt="gnoul_'s Most Used Languages" /></a> | 
 | ------------- | ------------- |
 
-<details>
-  <summary>
-    <strong>GitHub Trophies 🏆</strong>
-  </summary>
-  &nbsp;
-  <p>
-     <a href="https://github.com/gnoul4869">
-       <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=-1&theme=onedark&no-frame=true" />
-     </a>
-  </p>
-</details>
+
+#### Trophies
+ <a href="https://github.com/gnoul4869">
+   <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=-1&theme=onedark&no-frame=true" />
+ </a>
 
 ## Skills:
 ```
