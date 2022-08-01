@@ -104,7 +104,14 @@ Host: 123host.vn
 -> <a href="https://www.higamer.cf/" target="_blank">HiGamer</a>
 </pre>
 
-<!---
-gnoul4869/gnoul4869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details align="center">
+  <summary>
+    <strong>GitHub Trophies 🏆</strong>
+  </summary>
+  &nbsp;
+  <p align="center">
+     <a href="https://github.com/gnoul4869">
+       <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=4&margin-w=5&margin-h=5&theme=onedark&no-frame=true" />
+     </a>
+  </p>
+</details>
