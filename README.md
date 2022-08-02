@@ -12,7 +12,7 @@
 
 ### 🏆 Trophies
  <a href="https://github.com/gnoul4869">
-   <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=5&theme=onedark&no-bg=true&no-frame=true&margin-h=40" />
+   <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=4&theme=onedark&no-bg=true&no-frame=true&margin-h=40" />
  </a>
  
 ### ⚜ Stats
