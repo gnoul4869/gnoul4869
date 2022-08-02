@@ -1,31 +1,24 @@
 ## Basic info
-- 👋 Hi, I’m @gnoul4869
-- 👀 I’m interested in reading manga
-- 🎸 I’m currently learning guitar
-- 💞️ I’m looking to collaborate on Discord
-- 🤙 How to reach me: https://discord.gg/PeS7fRYfde
-<details>
-  <summary>
-    <strong>Dev Card 🌟</strong>
-  </summary>
-  &nbsp;
-  <p>
-     <a href="https://app.daily.dev/gnoul_">
-       <img src="https://api.daily.dev/devcards/7025b08682c64de8bd2f6e32d8f327a5.png?r=xxg" width="400" alt="gnoul_'s Dev Card"/>
-     </a>
-  </p>
-</details>
+<a href="https://app.daily.dev/gnoul_">
+  <img align="right" src="https://github.com/gnoul4869/gnoul4869/blob/main/devcard.svg" width="400" alt="gnoul_'s Dev Card"/>
+</a>
 
-## GitHub Stats
+<li>👋 Hi, I’m @gnoul4869</li>
+<li>👀 I’m interested in reading manga</li>
+<li>🎸 I’m currently learning guitar</li>
+<li>💞️ I’m looking to collaborate on Discord</li>
+
+## GitHub
+
+### 🏆 Trophies
+ <a href="https://github.com/gnoul4869">
+   <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=5&theme=onedark&no-bg=true&no-frame=true&margin-h=40" />
+ </a>
+ 
+### ⚜ Stats
 
 | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gnoul4869&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true" alt="gnoul_'s Github Stats" /></a> | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoul4869&langs_count=8&theme=onedark&layout=compact&hide_border=true" alt="gnoul_'s Most Used Languages" /></a> | 
 | ------------- | ------------- |
-
-
-#### Trophies
- <a href="https://github.com/gnoul4869">
-   <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=-1&theme=onedark&no-frame=true" />
- </a>
 
 ## Skills:
 ```
