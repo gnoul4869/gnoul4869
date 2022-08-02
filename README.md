@@ -34,8 +34,9 @@ Frontend frameworks: Vue.js / Nuxt.js / React
 Backend frameworks: Express.js (Node.js)
 CSS frameworks: Tailwind CSS / Bootstrap
 Databases: Firestore (Firebase) / MongoDB / MySQL / PostgreSQL / SQL Server / OracleSQL
-Linters: ESLint, Stylelint
+Linters: ESLint / Stylelint
 Version control softwares: Git / GitHub
+IT Skills: Regex / REST API / UX-UI Design / Scrum
 Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 ```
 
