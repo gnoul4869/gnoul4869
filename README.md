@@ -16,15 +16,6 @@
  </a>
  
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 ### ⚜ Stats
 
 | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gnoul4869&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true" alt="gnoul_'s Github Stats" /></a> | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoul4869&langs_count=8&theme=onedark&layout=compact&hide_border=true" alt="gnoul_'s Most Used Languages" /></a> | 
