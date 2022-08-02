@@ -1,4 +1,4 @@
-## Basic info
+## About
 <a href="https://app.daily.dev/gnoul_">
   <img align="right" src="https://github.com/gnoul4869/gnoul4869/blob/main/devcard.svg" width="400" alt="gnoul_'s Dev Card"/>
 </a>
@@ -8,7 +8,7 @@
 <li>🎸 I’m currently learning guitar</li>
 <li>💞️ I’m looking to collaborate on Discord</li>
 
-## GitHub
+## Info
 
 ### 🏆 Trophies
  <a href="https://github.com/gnoul4869">
