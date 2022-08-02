@@ -6,7 +6,7 @@
 <li>👋 Hi, I’m @gnoul4869</li>
 <li>👀 I’m interested in reading manga</li>
 <li>🎸 I’m currently learning guitar</li>
-<li>💞️ I’m looking to collaborate on Discord</li>
+<li>💞️ I’m looking to collaborate on <a href="https://discord.gg/PeS7fRYfde" target="_blank">Discord</a></li>
 
 ## Info
 
