@@ -115,5 +115,5 @@ Library: jQuery
 Database: MySQL
 Host: 123host.vn
 
--> <a href="https://www.higamer.cf/" target="_blank">HiGamer</a>
+-> <a href="https://github.com/gnoul4869/higamer-ogrinal-v1.1" target="_blank">HiGamer</a>
 </pre>
