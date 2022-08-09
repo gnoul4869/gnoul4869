@@ -46,7 +46,7 @@ Languages: TypeScript, HTML, SCSS
 Framework: Vue.js 3
 Host: Netlify
 
--> <a href="https://map-logger-v1.netlify.app/" target="_blank">Map Logger</a>
+-> <a href="https://map-logger-v1.netlify.app/">Map Logger</a>
 </pre>
 
 <pre>
@@ -59,7 +59,7 @@ Framework: Vue.js 3
 Database: Firestore
 Host: Firebase
 
--> <a href="https://live-chat-room-v2.web.app/" target="_blank">Live Chatroom</a>
+-> <a href="https://live-chat-room-v2.web.app/">Live Chatroom</a>
 </pre>
 
 <pre>
@@ -71,7 +71,7 @@ Languages: JavaScript, HTML, CSS
 Framework: Vue.js 3
 Host: Netlify
 
--> <a href="https://reaction-timer-v1.netlify.app/" target="_blank">Reaction Timer</a>
+-> <a href="https://reaction-timer-v1.netlify.app/">Reaction Timer</a>
 </pre>
 
 <pre>
@@ -86,7 +86,7 @@ Database: MongoDB
 Libraries: Redux, Mongoose, TensorFlow
 Host: Netlify (Frontend), Heroku (Main Backend), Replit (Vagabot)
 
--> <a href="https://vagabond-shop.cf/" target="_blank">Vagabond</a>
+-> <a href="https://vagabond-shop.cf/">Vagabond</a>
 </pre>
 
 <pre>
@@ -101,7 +101,7 @@ Library: jQuery
 Database: PostgreSQL / OracleSQL
 Host: Heroku
 
--> <a href="https://www.vnpt-review.cf/" target="_blank">VNPT-Review</a>
+-> <a href="https://www.vnpt-review.cf/">VNPT-Review</a>
 </pre>
 
 <pre>
@@ -115,5 +115,5 @@ Library: jQuery
 Database: MySQL
 Host: 123host.vn
 
--> <a href="https://github.com/gnoul4869/higamer-ogrinal-v1.1" target="_blank">HiGamer</a>
+-> <a href="https://github.com/gnoul4869/higamer-ogrinal-v1.1">HiGamer</a>
 </pre>
