@@ -44,7 +44,6 @@ Map Loggers (07/2022):
 
 Languages: TypeScript, HTML, SCSS
 Framework: Vue.js 3
-Host: Netlify
 
 -> <a href="https://map-logger-v1.netlify.app/">Map Logger</a>
 </pre>
@@ -57,7 +56,6 @@ Live Chatroom (04/2022):
 Languages: JavaScript, HTML, CSS
 Framework: Vue.js 3
 Database: Firestore
-Host: Firebase
 
 -> <a href="https://live-chat-room-v2.web.app/">Live Chatroom</a>
 </pre>
@@ -69,7 +67,6 @@ Reaction Timer (03/2022):
 
 Languages: JavaScript, HTML, CSS
 Framework: Vue.js 3
-Host: Netlify
 
 -> <a href="https://reaction-timer-v1.netlify.app/">Reaction Timer</a>
 </pre>
@@ -84,7 +81,6 @@ Languages: JavaScript, HTML, CSS, Python
 Frameworks: React, Express.js (Node.js), Flask, Bootstrap 5
 Database: MongoDB
 Libraries: Redux, Mongoose, TensorFlow
-Host: Netlify (Frontend), Heroku (Main Backend), Replit (Vagabot)
 
 -> <a href="https://vagabond-shop.cf/">Vagabond</a>
 </pre>
@@ -99,7 +95,6 @@ Languages: C#, JavaScript, HTML, CSS, PL/SQL
 Frameworks: ASP.NET Core MVC, Bootstrap 5
 Library: jQuery
 Database: PostgreSQL / OracleSQL
-Host: Heroku
 
 -> <a href="https://www.vnpt-review.cf/">VNPT-Review</a>
 </pre>
@@ -113,7 +108,6 @@ helps build a healthy community that says no to video game piracy..."
 Languages: PHP, JavaScript, HTML, CSS 
 Library: jQuery
 Database: MySQL
-Host: 123host.vn
 
 -> <a href="https://github.com/gnoul4869/higamer-ogrinal-v1.1">HiGamer</a>
 </pre>
