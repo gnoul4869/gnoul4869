@@ -96,7 +96,7 @@ Frameworks: ASP.NET Core MVC, Bootstrap 5
 Library: jQuery
 Database: PostgreSQL / OracleSQL
 
--> <a href="https://vnpt-review.herokuapp.com/">VNPT-Review</a>
+-> <a href="https://github.com/gnoul4869/vnpt-review">VNPT-Review</a>
 </pre>
 
 <pre>
