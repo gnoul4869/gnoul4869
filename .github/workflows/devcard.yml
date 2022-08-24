@@ -4,12 +4,13 @@ permissions:
   contents: write
   
 on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
   schedule:
+    # Runs at 5pm UTC
     - cron: "0 17 * * *"
+  workflow_dispatch:
+#   push:
+#     branches:
+#       - main
     
 jobs:
   devcard:
