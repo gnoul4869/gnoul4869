@@ -28,7 +28,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 November 2021 - To: 24 August 2022
+
+Total Time: 2 hrs 48 mins
+
+JavaScript   1 hr 22 mins    >>>>>>>>>>>>-------------   48.76 %
+Vue.js       56 mins         >>>>>>>>-----------------   33.77 %
+TypeScript   29 mins         >>>>---------------------   17.23 %
+INI          0 secs          -------------------------   00.21 %
+Other        0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
