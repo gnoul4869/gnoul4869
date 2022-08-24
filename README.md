@@ -25,10 +25,6 @@
 
 ### ⚜ Wakatime
 
-<a href="https://github.com/gnoul4869">
-  <img align="center" src="https://github.com/gnoul4869/gnoul4869/blob/main/charts/bar_graph.png" alt="gnoul_'s Wakatime Stats" />
-</a> 
-
 <!--START_SECTION:waka-->
 
 ```text
