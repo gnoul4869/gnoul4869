@@ -23,8 +23,29 @@
 | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gnoul4869&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true" alt="gnoul_'s Github Stats" /></a> | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoul4869&langs_count=8&theme=onedark&layout=compact&hide_border=true" alt="gnoul_'s Most Used Languages" /></a> | 
 | ------------- | ------------- |
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### ⚜ Wakatime
+
+<a href="https://github.com/gnoul4869">
+  <img align="center" src="https://github.com/gnoul4869/gnoul4869/blob/main/charts/bar_graph.png" alt="gnoul_'s Wakatime Stats" />
+</a> 
+
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
 
 ## Skills:
 ```
