@@ -105,7 +105,7 @@ Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 
 ## 💾 Pet Projects:
 <pre>
-Map Loggers (09/2022):
+AI Chatbot (09/2022):
 
 "An AI Chatbot that can communicate with the user by predicting the user's intention"
 
