@@ -105,6 +105,17 @@ Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 
 ## 💾 Pet Projects:
 <pre>
+Map Loggers (09/2022):
+
+"An AI Chatbot that can communicate with the user by predicting the user's intention"
+
+Languages: Python, Jupyter Notebook
+Library: Tensorflow
+
+-> <a href="https://github.com/gnoul4869/ai-chat-bot">AI Chatbot</a>
+</pre>
+
+<pre>
 Map Loggers (07/2022):
 
 "An application to create location logs on the world map. You choose the places, and you write the stories"
