@@ -91,7 +91,7 @@ Jupyter Notebook         2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 14/10/2022 17:35:25 UTC
 <!--END_SECTION:waka-->
 
-## 🐱‍👤 Skills:
+## 🥷 Skills:
 ```
 Languagues: JavaScript / TypeScript / HTML / CSS / SCSS / Python
 Frontend frameworks: Vue.js / Nuxt.js / React
