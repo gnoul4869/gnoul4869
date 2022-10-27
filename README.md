@@ -107,12 +107,23 @@ Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 
 ## 💾 Pet Projects:
 <pre>
+J.A.D.A.I (10/2022):
+
+"J.A.D.A.I (Just Another Discord Artificial Intelligence) is an AI Assistant built to assist people on discord using various functionalities"
+
+Languages: Python
+Library: Discord.py, Tensorflow, NLTK, Numpy, Pandas, Matplotlib
+
+-> <a href="https://discord.com/api/oauth2/authorize?client_id=847489154715222026&permissions=1071862767553&scope=applications.commands%20bot">J.A.D.A.I</a>
+</pre>
+
+<pre>
 AI Chatbot (09/2022):
 
 "An AI Chatbot that can communicate with the user by predicting the user's intention"
 
 Languages: Python, Jupyter Notebook
-Library: Tensorflow
+Library: Tensorflow, NLTK, Numpy, Pandas, Matplotlib
 
 -> <a href="https://github.com/gnoul4869/ai-chat-bot">AI Chatbot</a>
 </pre>
