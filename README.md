@@ -109,7 +109,8 @@ Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 <pre>
 J.A.D.A.I (10/2022):
 
-"J.A.D.A.I (Just Another Discord Artificial Intelligence) is an AI Assistant built to assist people on discord using various functionalities"
+"J.A.D.A.I (Just Another Discord Artificial Intelligence) is an AI Assistant built to assist people 
+on discord with many built-in functionalities"
 
 Languages: Python
 Library: Discord.py, Tensorflow, NLTK, Numpy, Pandas, Matplotlib
