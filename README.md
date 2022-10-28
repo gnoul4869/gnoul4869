@@ -95,7 +95,7 @@ Jupyter Notebook         2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## 🥷 Skills:
 ```
-Languagues: JavaScript / TypeScript / HTML / CSS / SCSS / Python
+Languagues: JavaScript / TypeScript / HTML / CSS / SCSS / Python / YAML
 Frontend frameworks: Vue.js / Nuxt.js / React
 Backend frameworks: Express.js (Node.js)
 CSS frameworks: Tailwind CSS / Bootstrap
@@ -113,7 +113,7 @@ J.A.D.A.I (10/2022):
 "J.A.D.A.I (Just Another Discord Artificial Intelligence) is an AI Assistant built to assist people 
 on discord with many built-in functionalities"
 
-Languages: Python
+Languages: Python, YAML
 Library: Discord.py, Tensorflow, NLTK, Numpy, Pandas, Matplotlib
 
 -> <a href="https://discord.com/api/oauth2/authorize?client_id=847489154715222026&permissions=1071862767553&scope=applications.commands%20bot">J.A.D.A.I</a>
