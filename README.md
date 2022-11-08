@@ -166,7 +166,7 @@ Framework: Vue.js 3
 Vagabond E-Commerce (10/2021):
 
 "Vagabond is an E-Commerce platform that focuses on giving customers the best experience when shopping online. 
-It is built using MERN Stack with many essential features such as Recommendation-System and AI chatbot..."
+It is built using MERN Stack with many essential features such as Recommendation-System and AI chatbot"
 
 Languages: JavaScript, HTML, CSS, Python
 Frameworks: React, Express.js (Node.js), Flask, Bootstrap 5
@@ -180,7 +180,7 @@ Libraries: Redux, Mongoose, TensorFlow
 VNPT-Review (07/2021):
 
 "VNPT Review is a web application that allows  VNPT staffs to review their offices in order to improve the 
-overall working experiences in VNPT..."
+overall working experiences in VNPT"
 
 Languages: C#, JavaScript, HTML, CSS, PL/SQL
 Frameworks: ASP.NET Core MVC, Bootstrap 5
@@ -193,8 +193,7 @@ Database: PostgreSQL / OracleSQL
 <pre>
 HiGamer (05/2021):
  
-"HiGamer is a website that provides digital games for gaming fans all around Vietnam. By doing so, HiGamer
-helps build a healthy community that says no to video game piracy..."
+"HiGamer is a shop service that provides digital games for gamers"
 
 Languages: PHP, JavaScript, HTML, CSS 
 Library: jQuery
