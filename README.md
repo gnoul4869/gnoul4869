@@ -129,7 +129,7 @@ Library: Tensorflow, NLTK, Numpy, Pandas, Matplotlib
 </pre>
 
 <pre>
-Map Loggers (07/2022):
+Map Logger (07/2022):
 
 "An application to create location logs on the world map. You choose the places, and you write the stories"
 
