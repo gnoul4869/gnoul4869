@@ -94,7 +94,7 @@ Jupyter Notebook         2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 🥷 Skills:
 ```
 Languagues: JavaScript / TypeScript / HTML / CSS / SCSS / Python / YAML
-Frontend frameworks: Vue.js / Nuxt.js / React
+Frontend frameworks: Vue.js / Nuxt.js / Quasar / React
 Backend frameworks: Express.js (Node.js)
 CSS frameworks: Tailwind CSS / Bootstrap
 Databases: Firestore (Firebase) / MongoDB / MySQL / PostgreSQL / SQL Server / OracleSQL
