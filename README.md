@@ -105,7 +105,7 @@ IT Skills: Regex / REST API / UX-UI Design / Scrum
 Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 ```
 
-## 💾 Pet Projects:
+## 💾 Projects:
 <pre>
 J.A.D.A.I (10/2022):
 
