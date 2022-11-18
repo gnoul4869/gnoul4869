@@ -113,7 +113,7 @@ J.A.D.A.I (10/2022):
 on discord with many built-in functionalities"
 
 Languages: Python, YAML
-Libraries: discord.py, tensorflow, nltk, numpy, pandas, matplotlib, bs4, regex, colorama
+Libraries: Discord.py, Tensorflow, NLTK, Numpy, Pandas, Matplotlib, Beautiful Soup 4, Regex, Colorama
 
 -> <a href="https://discord.com/api/oauth2/authorize?client_id=847489154715222026&permissions=1071862767553&scope=applications.commands%20bot">J.A.D.A.I</a>
 </pre>
