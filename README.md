@@ -114,7 +114,7 @@ J.A.D.A.I (10/2022):
 on discord with many built-in functionalities"
 
 Languages: Python, YAML
-Libraries: Discord.py, Tensorflow, NLTK, Numpy, Pandas, Matplotlib, Beautiful Soup 4, Regex, Colorama
+Libraries: Discord.py, Tensorflow, NLTK
 
 -> <a href="https://discord.com/api/oauth2/authorize?client_id=847489154715222026&permissions=1071862767553&scope=applications.commands%20bot">J.A.D.A.I</a>
 </pre>
@@ -125,7 +125,7 @@ AI Chatbot (09/2022):
 "An AI Chatbot that can communicate with the user by predicting the user's intention"
 
 Languages: Python, Jupyter Notebook
-Libraries: Tensorflow, NLTK, Numpy, Pandas, Matplotlib
+Libraries: Tensorflow, NLTK
 
 -> <a href="https://github.com/gnoul4869/ai-chat-bot">AI Chatbot</a>
 </pre>
