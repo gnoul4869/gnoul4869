@@ -110,7 +110,7 @@ Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 <pre>
 Chuck Jokes (12/2022):
 
-"Chuck Jokes is a simple react application for viewing Chuck Norris's collection of jokes"
+"A simple react application for viewing a collection of Chuck Norris jokes"
 
 Languages: TypeScript, SCSS
 Library: React
