@@ -108,6 +108,17 @@ Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 
 ## 💾 Projects:
 <pre>
+Chuck Jokes (12/2022):
+
+"Chuck Jokes is a simple react application for viewing Chuck Norris's collection of jokes"
+
+Languages: TypeScript, SCSS
+Library: React
+
+-> <a href="https://gnoul4869.github.io/chuck-jokes">Chuck Jokes</a>
+</pre>
+
+<pre>
 J.A.D.A.I (10/2022):
 
 "J.A.D.A.I (Just Another Discord Artificial Intelligence) is an AI Assistant built to assist people 
