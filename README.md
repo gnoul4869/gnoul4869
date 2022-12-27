@@ -108,18 +108,7 @@ Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 
 ## 💾 Projects:
 <pre>
-Chuck Jokes (12/2022):
-
-"A simple react application for viewing a collection of Chuck Norris jokes"
-
-Languages: TypeScript, SCSS
-Library: React
-
--> <a href="https://gnoul4869.github.io/chuck-jokes">Chuck Jokes</a>
-</pre>
-
-<pre>
-J.A.D.A.I (10/2022):
+J.A.D.A.I (Ongoing):
 
 "J.A.D.A.I (Just Another Discord Artificial Intelligence) is an AI Assistant built to assist people 
 on discord with many built-in functionalities"
@@ -128,6 +117,17 @@ Languages: Python, YAML
 Libraries: Discord.py, Tensorflow, NLTK
 
 -> <a href="https://discord.com/api/oauth2/authorize?client_id=847489154715222026&permissions=1071862767553&scope=applications.commands%20bot">J.A.D.A.I</a>
+</pre>
+
+<pre>
+Chuck Jokes (12/2022):
+
+"A simple react application for viewing a collection of Chuck Norris jokes"
+
+Languages: TypeScript, SCSS
+Library: React
+
+-> <a href="https://gnoul4869.github.io/chuck-jokes">Chuck Jokes</a>
 </pre>
 
 <pre>
