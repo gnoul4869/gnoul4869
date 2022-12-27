@@ -182,7 +182,8 @@ Vagabond E-Commerce (10/2021):
 It is built using MERN Stack with many essential features such as Recommendation-System and AI chatbot"
 
 Languages: JavaScript, HTML, CSS, Python
-Frameworks: React, Express.js (Node.js), Flask, Bootstrap 5
+Frontend frameworks: React, Bootstrap 5
+Backend frameworks: Express.js (Node.js), Flask
 Database: MongoDB
 Libraries: Redux, Mongoose, TensorFlow
 
