@@ -124,7 +124,7 @@ Chuck Jokes (12/2022):
 
 "A simple react application for viewing a collection of Chuck Norris jokes"
 
-Languages: TypeScript, SCSS, HTML
+Languages: TypeScript, HTML, SCSS
 Library: React
 
 -> <a href="https://gnoul4869.github.io/chuck-jokes">Chuck Jokes</a>
