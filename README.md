@@ -108,7 +108,7 @@ Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 
 ## 💾 Projects:
 <pre>
-J.A.D.A.I (Ongoing):
+J.A.D.A.I (10/2022 - Present):
 
 "J.A.D.A.I (Just Another Discord Artificial Intelligence) is an AI Assistant built to assist people 
 on discord with many built-in functionalities"
