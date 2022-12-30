@@ -110,8 +110,8 @@ Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
 <pre>
 J.A.D.A.I (10/2022 - Present):
 
-"J.A.D.A.I (Just Another Discord Artificial Intelligence) is an AI Assistant built to assist people 
-on discord with many built-in functionalities"
+J.A.D.A.I (Just Another Discord Artificial Intelligence) is an AI Assistant built to assist people 
+on discord with many built-in functionalities.
 
 Languages: Python, YAML
 Libraries: Discord.py, Tensorflow, NLTK
@@ -122,7 +122,7 @@ Libraries: Discord.py, Tensorflow, NLTK
 <pre>
 Chuck Jokes (12/2022):
 
-"A simple react application for viewing a collection of Chuck Norris jokes"
+A simple react application for viewing a collection of Chuck Norris jokes.
 
 Languages: TypeScript, HTML, SCSS
 Library: React
@@ -133,7 +133,7 @@ Library: React
 <pre>
 AI Chatbot (09/2022):
 
-"An AI Chatbot that can communicate with the user by predicting the user's intention"
+An AI Chatbot that can communicate with the user by predicting the user's intention.
 
 Languages: Python, Jupyter Notebook
 Libraries: Tensorflow, NLTK
@@ -144,7 +144,7 @@ Libraries: Tensorflow, NLTK
 <pre>
 Map Logger (07/2022):
 
-"An application to create location logs on the world map. You choose the places, and you write the stories"
+An application to create location logs on the world map. You choose the places, and you write the stories.
 
 Languages: TypeScript, HTML, SCSS
 Framework: Vue.js 3
@@ -155,7 +155,7 @@ Framework: Vue.js 3
 <pre>
 Live Chatroom (04/2022):
 
-"Live chatroom web application to chat with other people around the world"
+Live chatroom web application to chat with other people around the world.
 
 Languages: JavaScript, HTML, CSS
 Framework: Vue.js 3
@@ -167,7 +167,7 @@ Database: Firestore
 <pre>
 Reaction Timer (03/2022):
 
-"Reaction Timer web application to test your reaction time"
+Reaction Timer web application to test your reaction time.
 
 Languages: JavaScript, HTML, CSS
 Framework: Vue.js 3
@@ -178,8 +178,8 @@ Framework: Vue.js 3
 <pre>
 Vagabond E-Commerce (10/2021):
 
-"Vagabond is an E-Commerce platform that focuses on giving customers the best experience when shopping online. 
-It is built using MERN Stack with many essential features such as Recommendation-System and AI chatbot"
+Vagabond is an E-Commerce platform that focuses on giving customers the best experience when shopping online. 
+It is built using MERN Stack with many essential features such as Recommendation-System and AI chatbot.
 
 Languages: JavaScript, HTML, CSS, Python
 Frontend frameworks: React, Bootstrap 5
@@ -193,8 +193,8 @@ Libraries: Redux, Mongoose, TensorFlow
 <pre>
 VNPT-Review (07/2021):
 
-"VNPT Review is a web application that allows  VNPT staffs to review their offices in order to improve the 
-overall working experiences in VNPT"
+VNPT Review is a web application that allows  VNPT staffs to review their offices in order to improve the 
+overall working experiences in VNPT.
 
 Languages: C#, JavaScript, HTML, CSS, PL/SQL
 Frameworks: ASP.NET Core MVC, Bootstrap 5
@@ -207,7 +207,7 @@ Database: PostgreSQL / OracleSQL
 <pre>
 HiGamer (05/2021):
  
-"HiGamer is a shop service that provides digital games for gamers"
+HiGamer is a shop service that provides digital games for gamers.
 
 Languages: PHP, JavaScript, HTML, CSS 
 Library: jQuery
