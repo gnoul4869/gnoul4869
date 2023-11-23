@@ -19,7 +19,7 @@
 
 ## ⚜ Stats
 
-| <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats-gnoul4869.vercel.app/api?username=gnoul4869&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true" alt="gnoul_'s Github Stats" /></a> | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats-gnoul4869.vercel.app/api/top-langs/?username=gnoul4869&langs_count=8&theme=onedark&layout=compact&hide_border=true&exclude_repo=megafunx-samp,astar-rpgmakermv,vnpt-review,zing-speed-source&hide=jupyter%20notebook" alt="gnoul_'s Most Used Languages" /></a> | 
+| <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats-gnoul4869.vercel.app/api?username=gnoul4869&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true" alt="gnoul_'s Github Stats" /></a> | <a href="https://github.com/gnoul4869"><img align="center" src="https://github-readme-stats-gnoul4869.vercel.app/api/top-langs/?username=gnoul4869&langs_count=8&theme=onedark&layout=compact&hide_border=true&exclude_repo=megafunx-samp,astar-rpgmakermv,vnpt-review,zing-speed-source,Gunny-3.0G-Source&hide=jupyter%20notebook" alt="gnoul_'s Most Used Languages" /></a> | 
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
