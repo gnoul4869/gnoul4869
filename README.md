@@ -196,8 +196,8 @@ It is built using MERN Stack with many essential features such as Recommendation
 Languages: JavaScript, HTML, CSS, Python
 Frontend frameworks: React, Bootstrap 5
 Backend frameworks: Express.js (Node.js), Flask
-Database: MongoDB
 Libraries: Redux, Mongoose, TensorFlow
+Database: MongoDB
 
 -> <a href="https://github.com/gnoul4869/vagabond">Vagabond</a>
 </pre>
