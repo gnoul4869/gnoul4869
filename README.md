@@ -92,7 +92,7 @@ SCSS                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## 🥷 Skills:
 ```
-Languagues: JavaScript / TypeScript / HTML / CSS / SCSS / Python / YAML
+Languages: JavaScript / TypeScript / HTML / CSS / SCSS / Python / YAML
 Frontend frameworks: Vue.js / Nuxt.js / Quasar / React
 Backend frameworks: Express.js / Hono
 CSS frameworks: Tailwind CSS / Bootstrap
