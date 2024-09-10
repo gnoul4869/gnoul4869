@@ -128,7 +128,7 @@ Languages: C#, ActionScript
 Framework: ASP.NET
 Database: SQL Server
 
--> <a href="https://imgur.com/a/rQzG96e">Gunny 3.0G</a>
+-> <a href="https://imgur.com/gallery/gunny-3-0g-rQzG96e">Gunny 3.0G</a>
 </pre>
 
 <pre>
