@@ -99,7 +99,7 @@ CSS frameworks: Tailwind CSS / Bootstrap
 Databases: Firestore (Firebase) / MongoDB / MySQL / PostgreSQL / SQL Server / OracleSQL
 Linters: ESLint / Stylelint
 Version control softwares: Git / GitHub
-IT Skills: Regex / REST API / UX-UI Design / Scrum
+IT Skills: Docker / Regex / REST API / UX-UI Design / Scrum
 IDE: Visual Studio Code
 Editing softwares: Photoshop / Premiere Pro / After Effects / Reaper
 ```
