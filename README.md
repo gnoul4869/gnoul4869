@@ -101,7 +101,7 @@ Linters: ESLint / Stylelint
 Version control softwares: Git / GitHub
 IT Skills: Regex / REST API / UX-UI Design / Scrum
 IDE: Visual Studio Code
-Editing softwares: Adobe Photoshop / Premiere Pro / After Effects / Reaper
+Editing softwares: Photoshop / Premiere Pro / After Effects / Reaper
 ```
 
 ## 💾 Projects:
