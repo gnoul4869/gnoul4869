@@ -195,7 +195,7 @@ It is built using MERN Stack with many essential features such as Recommendation
 
 Languages: JavaScript, HTML, CSS, Python
 Frontend frameworks: React, Bootstrap 5
-Backend frameworks: Express.js (Node.js), Flask
+Backend frameworks: Express.js, Flask
 Libraries: Redux, Mongoose, TensorFlow
 Database: MongoDB
 
