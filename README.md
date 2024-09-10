@@ -120,9 +120,9 @@ Libraries: Discord.py, Tensorflow, NLTK
 <pre>
 Gunny 3.0G (11/2023 - 01/2024):
 
-Fixing/reworking a buggy, community-shared version of the classic web-based game, Gunny version 3.0. 
-Many major and minor functionalities were non-functional prior to the fix, but the game is now fully 
-functional and playable.
+Gunny 3.0G is a Gunny 3.0 restoration project, fixing/reworking a buggy, community-shared version of the 
+classic web-based game, Gunny version 3.0. Many major and minor functionalities were non-functional prior 
+to the fix, but the game is now fully functional and playable.
 
 Languages: C#, ActionScript
 Framework: ASP.NET
