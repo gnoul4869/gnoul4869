@@ -94,13 +94,14 @@ SCSS                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 Languagues: JavaScript / TypeScript / HTML / CSS / SCSS / Python / YAML
 Frontend frameworks: Vue.js / Nuxt.js / Quasar / React
-Backend frameworks: Express.js (Node.js)
+Backend frameworks: Express.js / Hono
 CSS frameworks: Tailwind CSS / Bootstrap
 Databases: Firestore (Firebase) / MongoDB / MySQL / PostgreSQL / SQL Server / OracleSQL
 Linters: ESLint / Stylelint
 Version control softwares: Git / GitHub
 IT Skills: Regex / REST API / UX-UI Design / Scrum
-Editing softwares: Adobe Photoshop / Premiere Pro / After Effects
+IDE: Visual Studio Code
+Editing softwares: Adobe Photoshop / Premiere Pro / After Effects / Reaper
 ```
 
 ## 💾 Projects:
@@ -114,6 +115,19 @@ Languages: Python, YAML
 Libraries: Discord.py, Tensorflow, NLTK
 
 -> <a href="https://discord.com/api/oauth2/authorize?client_id=847489154715222026&permissions=1071862767553&scope=applications.commands%20bot">J.A.D.A.I</a>
+</pre>
+
+<pre>
+Gunny 3.0G (11/2023 - 01/2024):
+
+Fixing/reworking a buggy, community-shared version of the classic web-based game, Gunny version 3.0.
+Many major and minor functionalities were non-functional prior to the fix, but the game is now fully functional and playable.
+
+Languages: C#, ActionScript
+Framework: ASP.NET
+Database: SQL Server
+
+-> <a href="https://imgur.com/a/rQzG96e">Gunny 3.0G</a>
 </pre>
 
 <pre>
