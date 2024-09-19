@@ -96,7 +96,7 @@ Languages: JavaScript / TypeScript / HTML / CSS / SCSS / Python / YAML
 Frontend frameworks: Vue.js / Nuxt.js / Quasar / React
 Backend frameworks: Express.js / Hono
 CSS frameworks: Tailwind CSS / Bootstrap
-Databases: Firestore (Firebase) / MongoDB / MySQL / PostgreSQL / SQL Server / OracleSQL
+Databases: Firestore (Firebase) / MongoDB / MySQL / PostgreSQL / Microsoft SQL Server / OracleSQL
 Linters: ESLint / Stylelint
 Version control softwares: Git / GitHub
 IT Skills: Docker / Regex / REST API / UX-UI Design / Scrum
