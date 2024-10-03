@@ -111,7 +111,7 @@ on discord with many built-in functionalities.
 Languages: Python, YAML
 Libraries: Discord.py, Tensorflow, NLTK
 
--> <a href="https://discord.com/api/oauth2/authorize?client_id=847489154715222026&permissions=1071862767553&scope=applications.commands%20bot">J.A.D.A.I</a>
+-> <a href="https://top.gg/bot/847489154715222026">J.A.D.A.I</a>
 </pre>
 
 <pre>
