@@ -124,7 +124,7 @@ to the fix, but the game is now fully functional and playable.
 
 Languages: C#, ActionScript
 Framework: ASP.NET
-Database: SQL Server
+Database: Microsoft SQL Server
 
 -> <a href="https://imgur.com/gallery/gunny-3-0g-rQzG96e">Gunny 3.0G</a>
 </pre>
