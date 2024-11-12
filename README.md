@@ -118,7 +118,7 @@ Libraries: Discord.py, Tensorflow, NLTK
 </pre>
 
 <pre>
-Gunny 3.0G (11/2023 - 01/2024):
+Gunny 3.0G (11/2023 - Present):
 
 Gunny 3.0G is a Gunny 3.0 restoration project, fixing/reworking a buggy, community-shared version of the 
 classic web-based game, Gunny version 3.0. Many major and minor functionalities were non-functional prior 
