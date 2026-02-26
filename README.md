@@ -6,13 +6,13 @@
 
 ## 👻 About
 
-> 👋 Hi, I’m @gnoul4869
-> 
-> 👀 I’m interested in reading manga
-> 
-> 🎸 I’m currently learning music
-> 
-> 💬 Add me on Discord: <b>gnoul_</b>
+&ensp;👋 Hi, I’m @gnoul4869
+
+&ensp; 👀 I’m interested in reading manga
+
+&ensp; 🎸 I’m currently learning music
+
+&ensp; 💬 Add me on Discord: <b>gnoul_</b>
 
 ## 🏆 Trophies
  <a href="https://github.com/gnoul4869">
