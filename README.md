@@ -1,6 +1,8 @@
-<a href="https://app.daily.dev/gnoul_" align="center">
-  <img align="right" src="./devcard.png" width="356" alt="gnoul_'s Dev Card"/>
-</a>
+<p  align="center">
+  <a href="https://app.daily.dev/gnoul_">
+  <img src="./devcard.png" height="400" alt="gnoul_'s Dev Card"/>
+  </a>
+</p>
 
 ## 👻 About
 
