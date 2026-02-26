@@ -11,7 +11,7 @@
 
 ## 🏆 Trophies
  <a href="https://github.com/gnoul4869">
-   <img src="https://github-profile-trophy.vercel.app/?username=gnoul4869&column=3&row=2&theme=onedark&no-bg=true&no-frame=true&margin-h=50" />
+   <img src="https://gh-trophy.cdnsoft.net/?username=gnoul4869&column=3&row=2&theme=onedark&no-bg=true&no-frame=true&margin-h=50" />
  </a>
  
 </br>
