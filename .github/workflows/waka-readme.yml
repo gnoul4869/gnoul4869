@@ -26,3 +26,7 @@ jobs:
           COMMIT_BY_ME: True
           SHOW_UPDATED_DATE: True
           IGNORED_REPOS: "r2-t2-requirement-test-report-tool, r2-t2-requirement-test-report-tool - Copy, r2-t2-requirement-test-report-tool - Copy (2)"
+          SHOW_LANGUAGE: False
+          SHOW_OS: False
+          SHOW_PROJECTS: False
+          SHOW_EDITORS: False
