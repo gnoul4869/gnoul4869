@@ -1,6 +1,6 @@
 <p  align="center">
   <a href="https://app.daily.dev/gnoul_">
-  <img src="./devcard.png" height="300" alt="gnoul_'s Dev Card"/>
+  <img src="./devcard.png" height="350" alt="gnoul_'s Dev Card"/>
   </a>
 </p>
 
