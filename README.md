@@ -1,13 +1,16 @@
-<a href="https://app.daily.dev/gnoul_">
+<a href="https://app.daily.dev/gnoul_" align="center">
   <img align="right" src="./devcard.png" width="356" alt="gnoul_'s Dev Card"/>
 </a>
 
 ## 👻 About
 
-<li>👋 Hi, I’m @gnoul4869</li>
-<li>👀 I’m interested in reading manga</li>
-<li>🎸 I’m currently learning music</li>
-<li>💬 Add me on Discord: <b>gnoul_</b></li>
+> 👋 Hi, I’m @gnoul4869
+> 
+> 👀 I’m interested in reading manga
+> 
+> 🎸 I’m currently learning music
+> 
+> 💬 Add me on Discord: <b>gnoul_</b>
 
 ## 🏆 Trophies
  <a href="https://github.com/gnoul4869">
