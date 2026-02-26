@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/gnoul_">
-  <img align="right" src="https://github.com/gnoul4869/gnoul4869/blob/main/devcard.svg" width="400" alt="gnoul_'s Dev Card"/>
+  <img align="right" src="./devcard.png" width="356" alt="gnoul_'s Dev Card"/>
 </a>
 
 ## 👻 About
