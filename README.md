@@ -37,7 +37,7 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                877 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.07 % 
+🌞 Morning                878 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.08 % 
 🌆 Daytime                2243 commits        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.21 % 
 🌃 Evening                3012 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.16 % 
 🌙 Night                  3533 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.55 % 
@@ -45,7 +45,7 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1496 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.48 % 
+Monday                   1497 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.49 % 
 Tuesday                  1387 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.35 % 
 Wednesday                1300 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.45 % 
 Thursday                 1456 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.06 % 
@@ -58,23 +58,23 @@ Sunday                   1520 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 26 mins (40.04%)
+⏱ AI Coding Time: 2 hrs 8 mins (39.25%)
 
-✍️ 73 lines written by AI, 249 lines written by hand (22.67% AI-written)
+✍️ 73 lines written by AI, 132 lines written by hand (35.61% AI-written)
 
-🔤 274,816 Input Tokens, 5,111 Output Tokens
+🔤 107,139 Input Tokens, 1,522 Output Tokens
 
-💵 $0.90 Estimated AI Cost This Week
+💵 $0.34 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 33 AI Prompts
+🧠 3 AI Sessions, 28 AI Prompts
 
 Github-Copilot           73 lines            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.67% of written lines came from AI
-📄 Detailed Prompter — average 915 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 84.66% of changed lines were hand-edited
+⚖️ Balanced with AI — 35.61% of written lines came from AI
+📄 Detailed Prompter — average 695 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 79.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
