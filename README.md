@@ -97,8 +97,8 @@ J.A.D.A.I (10/2022 - Present):
 J.A.D.A.I (Just Another Discord Artificial Intelligence) is an AI Assistant built to assist people 
 on discord with many built-in functionalities.
 
-Languages: Python, YAML
-Libraries: Discord.py, Tensorflow, NLTK
+Languages: Python
+Libraries: Discord.py
 
 -> <a href="https://top.gg/bot/847489154715222026">J.A.D.A.I</a>
 </pre>
